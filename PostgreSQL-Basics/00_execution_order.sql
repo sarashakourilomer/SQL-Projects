@@ -1,0 +1,17 @@
+-- PostgreSQL Basics
+-- Execution order:
+--
+-- 1. 01_create_tables.sql
+--    Creates tables and relationships
+--
+-- 2. 02_insert_data.sql
+--    Inserts sample data
+--
+-- 3. 03_select_queries.sql
+--    Basic SELECT queries
+--
+-- 4. 04_joins.sql
+--    JOIN operations between tables
+--
+-- 5. 05_advanced_queries.sql
+--    Advanced queries and aggregations
